@@ -7,7 +7,7 @@ on:
 
 jobs:
   setup-db:
-    runs-on: self-hosted
+    runs-on: Nathanaels-MacBook-Pro
 
     steps:
       - name: Checkout repo
